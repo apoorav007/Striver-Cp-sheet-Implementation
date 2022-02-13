@@ -12,6 +12,7 @@ public class Main {
         int n=sc.nextInt();
         String arr[]=new String[n];
         sc.nextLine();
+        // input for string
         for(int i=0;i<n;i++){
             arr[i]=sc.nextLine();
         }
